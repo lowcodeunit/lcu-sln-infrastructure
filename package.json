@@ -32,10 +32,12 @@
 		"@lcu/core": "0.0.10",
 		"@lcu/daf-common": "0.0.2",
 		"@lcu/elements": "0.0.10",
+		"@lcu/enterprises": "0.0.3",
 		"@lcu/hosting": "0.0.10",
 		"@lcu/solutions": "0.0.10",
 		"@lowcodeunit-devkit/ng-lcu": "0.0.106",
 		"core-js": "^2.5.4",
+		"dot-object": "^1.7.1",
 		"rxjs": "~6.3.3",
 		"tslib": "^1.9.0",
 		"zone.js": "~0.8.26"
