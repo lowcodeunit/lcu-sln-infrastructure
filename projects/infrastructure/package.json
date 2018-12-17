@@ -1,5 +1,5 @@
 {
-  "name": "infrastructure",
+  "name": "@lowcodeunit/lcu-sln-infrastructure",
   "version": "0.0.2",
   "peerDependencies": {
     "@angular/common": "^7.1.0",
