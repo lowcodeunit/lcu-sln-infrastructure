@@ -39,6 +39,7 @@
 		"@lcu/routing": "0.0.19",
 		"@lcu/solutions": "0.0.19",
 		"@lowcodeunit-devkit/ng-lcu": "0.0.107",
+		"@lowcodeunit/ngx-markdown-docs": "0.0.12",
 		"core-js": "^2.5.4",
 		"dot-object": "^1.7.1",
 		"rxjs": "~6.3.3",

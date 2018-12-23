@@ -11,10 +11,13 @@ export class ForgeInfrastructureSolutionDocumentation extends ForgeGenericSoluti
 	//  Fields
 
 	//  Properties
+	public DocsRoot: string;
 
 	//  Constructors
 	constructor(protected injector: Injector) {
 		super(injector);
+
+		this.DocsRoot = 'https://raw.githubusercontent.com/lowcodeunit/lcu-sln-infrastructure/master/docs/';
 	}
 
 	//	Life Cycle
