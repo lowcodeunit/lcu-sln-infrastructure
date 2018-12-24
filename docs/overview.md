@@ -1,35 +1,26 @@
-# Distributed Infrastructure
+# Platform Agnostic Infrastructure
 
-Distributed Assets are at the core of data movement and mapping for display in Data Applications. Define your
-Enterprise's assets and then map the flow of data between your Enterprise architecture to establish a real time
-mechanism for data movement.
+Often the most difficult part for Enterprises in working across multiple teams, is leveraging problem solving capabilities of resources against existing infrastructure. The configuration driven nature of the Fathym Ecosystem is purpose built to help
+teams solve problems in consistent and scalable architectures that are crafted for the Enterprise, in order to enable rapid and
+transformative (capable of transcending the changes and evolution of technology....).
 
-## Getting Started with Distributed Assets
+## Choosing Your Starting Infrastructure
 
-There are many various forms your Asset definition can take. From fairly static reference data to
-always-calculated marts, the Distributed Assets system provides a simple interface for retrieving and
-delivering data to your end users.
+As a starting point for the entire Fathym Infrastructure, you will need to decide how you want to host your infrastructure.  This won't be set in stone, and any logical migration is possible with minimal downtime.  For ready-to-be-production environments, it is recommended to start with the Enterprise Infrastructure option.
 
-### Reference Assets
+### Fathym Explorer Infrastructure
 
-...
+If you do nothing, and configure no information for the infrastructure solution you will be utilizing the shared Fathym Hosting space. While we do our best to keep these assets up and running, it does not come without restrictions. We constantly monitor the activity of our shared infrastructure and any accounts found to be abusing the "explorer" nature of our shared infrastructure will be asked to upgrade (and supported in such efforts) to our Managed or Enterprise Infrastructure offerings. We do our best to ensure
+no downtime and provide ease of migration, however it is always best to start with our Managed or Enterprise offerings.
 
-...
-
-[Getting Started - Reference Assets](getting-started/reference-assets.md)
-
-### Always-Calculated Marts
+### Fathym Hosted Infrastructure
 
 ...
 
-...
-
-[Getting Started - Building Always-Calculated Marts with Flux](getting-started/always-calculated-assets.md)
-
-### Rolling Assets
+### Fathym Enterprise Infrastructure
 
 ...
 
-...
+## Long Term Goals
 
-[Getting Started - Leveraging Time to Live with Flux](getting-started/ttl-assets.md)
+While existing partnerships and customer efforts continue to drive our efforts against the Azure service offerings, everything is architected to support the implementation of other platforms like AWS and Google. Contact our team for support on building solutions against these other platforms.
