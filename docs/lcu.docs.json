@@ -10,8 +10,8 @@
       "Children": [
         {
           "Children": [],
-          "Path": "/getting-started/reference-assets.md",
-          "Title": "Distributed Reference Assets"
+          "Path": "/getting-started/setting-up-enterprise-azure.md",
+          "Title": "Enterprise Azure Setup"
         }
       ],
       "Title": "Getting Started"
