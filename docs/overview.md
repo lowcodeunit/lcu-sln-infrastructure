@@ -23,26 +23,6 @@ To get started with hosted plan, contact your sales representative and we'll tak
 
 Ok, so you still might need to explore our offerings, but if you want to do that within the security and control of your Enterprise infrastructure then this is the option for you.  Configure your existing infrastructure against the available solution offerings and create a secure and scalable way to solve problems for your Enterprise.
 
-#### Setting Up an Enterprise Azure Infrastructure
+Try some of the following starting points
 
-This is the most secure and scalable way to move forward.  There are a few steps we need to go through to get everything setup, and then you can continue exploring the Fathym Ecosyste solutions with provisioning in your own infrastructure.
-
-##### Creating an Azure Subscription
-
-...
-
-##### Create an Azure Service Account
-
-...
-
-##### Authorize Service Account for Appropriate Access
-
-...
-
-##### Configure your Forge with Azure
-
-...
-
-## Long Term Goals
-
-While existing partnerships and customer efforts continue to drive our efforts against the Azure service offerings, everything is architected to support the implementation of other platforms like AWS and Google. Contact our team for support on building solutions against these other platforms.
+[Getting Started - Setting up Enterprise Azure Infrastructure](getting-started/setting-up-enterprise-azure.md)

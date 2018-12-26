@@ -1,11 +1,21 @@
 {
-    "DefaultDocPath": "overview.md",
-    "Docs": [
+  "DefaultDocPath": "overview.md",
+  "Docs": [
+    {
+      "Children": [],
+      "Path": "overview.md",
+      "Title": "Platform Agnostic Infrastructure"
+    },
+    {
+      "Children": [
         {
-            "Children": [],
-            "Path": "overview.md",
-            "Title": "Overview"
+          "Children": [],
+          "Path": "/getting-started/reference-assets.md",
+          "Title": "Distributed Reference Assets"
         }
-    ],
-    "LocationRoot": "https://raw.githubusercontent.com/lowcodeunit/lcu-sln-infrastructure/master/docs/"
+      ],
+      "Title": "Getting Started"
+    }
+  ],
+  "LocationRoot": "https://raw.githubusercontent.com/lowcodeunit/lcu-sln-infrastructure/master/docs/"
 }
